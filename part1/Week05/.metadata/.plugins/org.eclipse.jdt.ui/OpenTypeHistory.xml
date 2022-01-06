@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=rest-webservice-crud/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.entity{JpaAudit.java[JpaAudit" modifiers="1025" timestamp="1641199030493"/>
+    <typeInfo handle="=rest-webservice-crud/C:\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\/jre\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1637062232000"/>
+    <typeInfo handle="=rest-webservice-crud/C:\/Users\/vinaysa.IN_MOURITECH\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.6.0\/spring-data-jpa-2.6.0.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.6.0=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1638272442596"/>
+</typeInfoHistroy>

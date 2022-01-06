@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\vinaysa.IN_MOURITECH\Documents\Week05-04\MainE-StudentServiceConsumer"/>
+			<item value="C:\Users\vinaysa.IN_MOURITECH\Documents\Week05-04\springboot-eureka-app"/>
+			<item value="C:\Users\vinaysa.IN_MOURITECH\Documents\Week05-04\Simple-Rest-WebService-Using-SpringBoot-Consumer"/>
+			<item value="C:\Users\vinaysa.IN_MOURITECH\Documents\Week05-04\Simple-Rest-WebService-Using-SpringBoot-Provider"/>
+			<item value="C:\Users\vinaysa.IN_MOURITECH\Documents\Week05-04\Simple-Rest-WebService-Using-SpringBoot"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
